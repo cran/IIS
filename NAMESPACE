@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+importFrom('Hmisc', 'binconf')
+importFrom('NSM3', 'pJCK', 'pKW')
+importFrom('asbio', 'ConDis.matrix')
+importFrom('BSDA', 'SIGN.test')
+importFrom('Rfit', 'walsh')
