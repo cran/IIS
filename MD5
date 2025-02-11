@@ -1,8 +1,7 @@
-ab70f0e79e9161eb865a489b5aec172f *DESCRIPTION
+5d2abc6eb75afc9d1a9a99e229b5e518 *DESCRIPTION
 c218559cb62aa298ea912279a07082c5 *NAMESPACE
-768b9d004f4f7648d7c8bc2cdcf669ea *R/FindTriples.R
-948dad22c3daeea5e9c38cb51f0b29e5 *R/IIS-internal.R
-b0f356c41b100b2eea9f383eff3cb3f4 *R/data.R
+ab9180fb8ce5788135f47c20b2f38c17 *R/FindTriples.R
+53f7768f8e2e8cd181a6723c8427cc9e *R/data.R
 1755bd74f8800f36563bbc8f9dbb008b *data/agricultural_chargeoff_rates_by_quarter.rda
 c87818c28992b14af6bdebd6a6c6ee71 *data/airline_arrivals.rda
 e2504ca1986b8e27705fb18f3ce6416e *data/american_league_salary_2014.rda
@@ -56,7 +55,7 @@ bb48ca4a72c5caaa86fd3e52669c7732 *data/tiaa_cref.rda
 eba8b4eec0f6e9dc47aa83f8db0e3960 *data/traffic_accidents.rda
 22d2a1c8e74a59ee35ab6c70f111b0fa *data/weekly_salaries.rda
 f82fb8cc25e604b032adf28acb8b6e6b *data/weight_of_Euros.rda
-d356e3eb3b03957f12b3da7ec4d801c6 *man/FindTriples.Rd
+0a3517144f7017dc34d7ee999f251434 *man/FindTriples.Rd
 1f8e82e7d9ddfeb759533f58df982ba8 *man/IIS-package.Rd
 870f58895bace9b58c447525b1989e9e *man/agricultural_chargeoff_rates_by_quarter.Rd
 6659d6678c85f0118a1c4b47c28d31db *man/airline_arrivals.Rd
@@ -81,7 +80,7 @@ bba566c9d3dc1c3e198edb676023ff6c *man/health_care_by_affiliation.Rd
 f40106ed833069e37f5cef4d498f9720 *man/house_lot_sizes.Rd
 bb876d1e8d9793a82d2ae36b568446c3 *man/infant_walking.Rd
 661fe732d4c1d9375d38f1778f8d58d5 *man/interstitial_lengths.Rd
-665570883ccbe1703c6ebe4ee50dbf1f *man/kentucky_derby_2012.Rd
+06b0341d662629298aa18b2cb83c5e75 *man/kentucky_derby_2012.Rd
 6f715fd3592fdc81d62a28e92fe689f4 *man/meniscal_repairs_load_at_failure.Rd
 2805ee334585d10a09fb64126ae8cae5 *man/mother_smoking_age.Rd
 d690ea6f683bd27e26cd0ad4b41eb958 *man/mother_smoking_education.Rd
@@ -90,7 +89,7 @@ fc536c43f22df62e36e7d820e552f106 *man/mother_smoking_education_1989_1993.Rd
 db0c4e5aaead08acde18b9366eb9290c *man/motor_vehicle_death_rate_2012.Rd
 1fa475f35cc0bfc26813affbd7771528 *man/movie_facts.Rd
 31eb46dfd211faf61c5c1d769b61ecca *man/national_league_salary_2014.Rd
-f1ecfdce9a4ad0a1f4de08a62d068577 *man/nba_2015_2016.Rd
+7d3deb816ed9800cfe52412ce5e209a7 *man/nba_2015_2016.Rd
 1e3cb43ee2a6c16f2d75add79bc0a384 *man/osu_math_salaries_2015.Rd
 dafe0882f07ad5af7897336550925e40 *man/pennies_age.Rd
 c415adee76f1a0f15dd731ca1a30dd05 *man/percentage_hatched_eggs.Rd

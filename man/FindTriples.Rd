@@ -20,14 +20,15 @@ triple is said to be a left triple. If the middle ordered value is exactly
 halfway between the other two, the triple is neither right nor left. This function will do the necessary computations
 and return the number of each type of triple.
 }
+\value{
+A list with three components:
+\itemize{
+  \item \code{right} - Number of right triples (where middle value is closer to smallest)
+  \item \code{left} - Number of left triples (where middle value is closer to largest)
+  \item \code{neither} - Number of triples that are neither left nor right (where middle value is exactly halfway between the other two)
+}
+}
 \examples{
 FindTriples(1:10)
 FindTriples(rnorm(20))
-
-
-
-
-\dontrun{
-FindTriples("a")
-}
 }

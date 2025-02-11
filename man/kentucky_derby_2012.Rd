@@ -6,7 +6,7 @@
 \title{Kentucky Derby 2012}
 \format{A \code{data.frame} with 23 rows and 6 columns indicating various statistics for each year.}
 \source{
-\url{https://www.kentuckyderby.ag}
+\url{https://kentuckyderby.ag/}
 }
 \usage{
 kentucky_derby_2012

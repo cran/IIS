@@ -6,7 +6,7 @@
 \title{NBA 2015-2016}
 \format{A \code{data.frame} with 30 rows and 19 columns indicating various performance statistics for each team.}
 \source{
-\url{http://stats.nba.com/league/team/}
+\url{https://www.nba.com/stats/teams/traditional?Season=2015-16}
 }
 \usage{
 nba_2015_2016

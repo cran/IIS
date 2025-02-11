@@ -10,6 +10,12 @@
 #' and return the number of each type of triple.
 #'
 #' @param z Numeric vector
+#' @return A list containing:
+#' \itemize{
+#'   \item right - Number of right triples (where middle value is closer to smallest)
+#'   \item left - Number of left triples (where middle value is closer to largest)
+#'   \item neither - Number of triples that are neither left nor right
+#' }
 #' @examples
 #' FindTriples(1:10)
 #' FindTriples(rnorm(20))
@@ -38,7 +44,9 @@ FindTriples<- function (z)
       }
     }
   }
-  cat("Right triples:",length(f.vals[f.vals>0]),'\n')
-  cat("Left triples:",length(f.vals[f.vals<0]),'\n')
-  cat("Neither left nor right triples:",length(f.vals[f.vals==0]),'\n')  
+  list(
+    right = length(f.vals[f.vals > 0]),
+    left = length(f.vals[f.vals < 0]),
+    neither = length(f.vals[f.vals == 0])
+  )
 }
